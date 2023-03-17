@@ -1,0 +1,20 @@
+.body{
+    background-image: url('../asset/BcGJCEA.jpg');
+    margin-left: 30px;
+    margin-right: 30px;
+    height:580px ;
+}
+
+.liens{
+    text-align: center;
+    padding-top: 220px;
+   
+    padding-right:220px ;
+    padding-left: 220px;
+
+}
+
+.btn{
+    margin-right: 20px;
+    
+}
